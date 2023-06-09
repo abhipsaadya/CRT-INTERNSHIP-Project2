@@ -27,12 +27,6 @@ const music_list=[{
     music:'music/Obsessed(PaglaSongs).mp3'
 },
 {
-    img:'images/liggi.jpg',
-    name:'Liggi Ritviz',
-    artist:' Ritviz',
-    music:'music/Liggi Ritviz 128 kbps.mp3' 
-},
-{
     img:'images/hayeeoyee.jpg',
     name:'HayeeOyee',
     artist:' QARAN',
